@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Site de EmJako
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+description:
+  Ce site rassemble toutes les ressources liées aux publicatoins de Emmanuel Jakobowicz notamment ses ouvrages 
   <br><br>
-  Second description 
+  Emmanuel est data scientist, CEO de @stat4decision et auteur d'ouvrages notamment sur python.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.stat4decision.com">Stat4decision</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
