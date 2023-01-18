@@ -1,29 +1,18 @@
-## Portfolio
+## Projets
 
 ---
 
-### Category Name 1 
+### Mes ouvrages
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Python pour le data scientist](/pythondatascientist)
+<img src="https://emjako.github.io/pythondatascientist/other/python-pour-le-data-scientist-dunod.jpeg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[L'intelligence artificielle, une révolution ? (à venir)](/pdf/sample_presentation.pdf)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Autres projets
 
 ---
 
