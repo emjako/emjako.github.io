@@ -13,6 +13,7 @@
 ---
 
 ### Autres projets
+[Un lieu où les ressources Python pour la data en français sont rassemblés](https://emjako.github.io/ressources-python-data-fr/)
 
 ---
 
